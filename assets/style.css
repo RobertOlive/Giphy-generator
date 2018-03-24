@@ -1,8 +1,10 @@
 body {
     text-align: center;
+    background: linear-gradient(rgb(0, 217, 255), rgb(30, 255, 0))
 }
 
 img {
     width: 32%;
     height: auto;
 }
+
